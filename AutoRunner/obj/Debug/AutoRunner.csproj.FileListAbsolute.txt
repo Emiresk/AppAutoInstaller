@@ -1,0 +1,9 @@
+C:\Users\User\RiderProjects\AutoRunner\AutoRunner\bin\Debug\AutoRunner.exe
+C:\Users\User\RiderProjects\AutoRunner\AutoRunner\bin\Debug\AutoRunner.pdb
+C:\Users\User\RiderProjects\AutoRunner\AutoRunner\obj\Debug\AutoRunner.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\AutoRunner\AutoRunner\obj\Debug\AutoRunner.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\AutoRunner\AutoRunner\obj\Debug\AutoRunner.exe
+C:\Users\User\RiderProjects\AutoRunner\AutoRunner\obj\Debug\AutoRunner.pdb
+C:\Users\User\RiderProjects\AutoRunner\AutoRunner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\RiderProjects\AutoRunner\AutoRunner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\RiderProjects\AutoRunner\AutoRunner\obj\Debug\AutoRunner.csproj.CopyComplete

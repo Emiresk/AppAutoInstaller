@@ -1,0 +1,6 @@
+{
+  "app": {
+	"DirectX.exe": "/S",
+	"SlackSetup.exe": "-s"
+  }
+}
